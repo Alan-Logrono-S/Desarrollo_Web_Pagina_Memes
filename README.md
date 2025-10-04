@@ -4,17 +4,18 @@
 
 Proyecto realizado en clase como parte del laboratorio de desarrollo web.
 
-## 🚀 Descripción
+## Descripción
 Sitio web que muestra una colección de memes divertidos, con estilos en CSS y animaciones básicas en JavaScript.
 
-## 🛠️ Tecnologías usadas
+## Tecnologías usadas
 - HTML5
 - CSS3
 - JavaScript
 
-## 🌐 Despliegue
+## Despliegue
 El sitio está publicado en GitHub Pages:  
 https://alan-logrono-s.github.io/Desarrollo_Web_Pagina_Memes/
 
 ## Autor
 Alan Logroño Soria
+
